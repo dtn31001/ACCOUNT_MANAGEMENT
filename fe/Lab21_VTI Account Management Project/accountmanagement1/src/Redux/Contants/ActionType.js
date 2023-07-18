@@ -1,0 +1,13 @@
+/** @format */
+
+export const SHOW_FORM = "SHOW_FORM";
+export const CLOSE_FORM = "CLOSE_FORM";
+export const FETCH_ACCOUNT_LIST = "FETCH_ACCOUNT_LIST";
+export const FETCH_DEPARTMENT_LIST = "FETCH_DEPARTMENT_LIST";
+export const FETCH_POSITION_LIST = "FETCH_POSITION_LIST";
+export const DELETE_ACCOUNT = "DELETE_ACCOUNT";
+export const SEARCH_ACCOUNT = "SEARCH_ACCOUNT";
+// FormUpdate ActionType
+export const TOGLE_FORM_UPATE = "TOGLE_FORM_UPATE";
+
+export const FETCH_ACCOUNT_UPDATE_INFO = "FETCH_ACCOUNT_UPDATE_INFO";
